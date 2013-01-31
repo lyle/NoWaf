@@ -1,0 +1,13 @@
+Avenue
+Boulevard
+Circle
+Court
+Drive
+Lane
+Parkway
+Place
+Road
+Square
+Street
+Terrace
+Way

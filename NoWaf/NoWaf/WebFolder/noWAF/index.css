@@ -1,0 +1,25 @@
+.cell-firstname
+{
+	display:table-cell;
+	width:200px;
+}
+.cell-lastname
+{
+	width:200px;
+	display:table-cell;
+}
+.cell-salary
+{
+	width:80px;
+	display:table-cell;
+}
+#display
+{
+	position:relative;
+	top:20px;
+	display:table;
+}
+.line
+{
+	display:table-row;
+}
