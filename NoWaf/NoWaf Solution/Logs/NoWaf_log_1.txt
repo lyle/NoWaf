@@ -1,0 +1,162 @@
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf] INFO - Opening the solution
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf] INFO - Opening the users and groups directory
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf] INFO - Users and groups directory opened (duration: 11 ms)
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Opening the project
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project opened (duration: 10 ms)
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf] INFO - Solution opened (duration: 48 ms)
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf] INFO - Starting the solution
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Starting the project
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Starting the HTTP server
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf.ServerAdmin] INFO - HTTP server started (duration: 37 ms)
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project started (duration: 90 ms)
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Bootstrap(s) executed (duration: 13 ms)
+2013-01-31 14:01:40 [com.wakanda-software.NoWaf] INFO - Solution started (duration: 105 ms)
+2013-01-31 14:03:13 [com.wakanda-software.NoWaf] INFO - Stopping the solution
+2013-01-31 14:03:13 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Stopping the project
+2013-01-31 14:03:14 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project stopped (duration: 1073 ms)
+2013-01-31 14:03:14 [com.wakanda-software.NoWaf] INFO - Solution stopped (duration: 1073 ms)
+2013-01-31 14:03:14 [com.wakanda-software.NoWaf] INFO - Closing the solution
+2013-01-31 14:03:14 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Closing the project
+2013-01-31 14:03:14 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-01-31 14:03:14 [com.wakanda-software.NoWaf] INFO - Solution closed (duration: 408 ms)
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf] INFO - Opening the solution
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf] INFO - Opening the users and groups directory
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf] INFO - Users and groups directory opened (duration: 13 ms)
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.NoWaf] INFO - Opening the project
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.NoWaf] INFO - Opening the database
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.NoWaf] INFO - Database opened (duration: 13 ms)
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.NoWaf] INFO - Project opened (duration: 22 ms)
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Opening the project
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project opened (duration: 4 ms)
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf] INFO - Solution opened (duration: 65 ms)
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf] INFO - Starting the solution
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.NoWaf] INFO - Starting the project
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.NoWaf] INFO - Starting the HTTP server
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.NoWaf] INFO - HTTP server started (duration: 34 ms)
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.NoWaf] INFO - Project started (duration: 86 ms)
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Starting the project
+2013-01-31 14:03:19 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Starting the HTTP server
+2013-01-31 14:03:20 [com.wakanda-software.NoWaf.ServerAdmin] INFO - HTTP server started (duration: 37 ms)
+2013-01-31 14:03:20 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project started (duration: 90 ms)
+2013-01-31 14:03:20 [com.wakanda-software.NoWaf.NoWaf] INFO - Executing the bootstrap(s)
+2013-01-31 14:03:20 [com.wakanda-software.NoWaf.NoWaf] INFO - Bootstrap(s) executed (duration: 4 ms)
+2013-01-31 14:03:20 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-31 14:03:20 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-01-31 14:03:20 [com.wakanda-software.NoWaf] INFO - Solution started (duration: 192 ms)
+2013-01-31 14:17:51 [com.wakanda-software.NoWaf] INFO - Stopping the solution
+2013-01-31 14:17:51 [com.wakanda-software.NoWaf.NoWaf] INFO - Stopping the project
+2013-01-31 14:17:53 [com.wakanda-software.NoWaf.NoWaf] INFO - Project stopped (duration: 1071 ms)
+2013-01-31 14:17:53 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Stopping the project
+2013-01-31 14:17:55 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project stopped (duration: 2074 ms)
+2013-01-31 14:17:55 [com.wakanda-software.NoWaf] INFO - Solution stopped (duration: 3146 ms)
+2013-01-31 14:17:55 [com.wakanda-software.NoWaf] INFO - Closing the solution
+2013-01-31 14:17:55 [com.wakanda-software.NoWaf.NoWaf] INFO - Closing the project
+2013-01-31 14:17:55 [com.wakanda-software.NoWaf.NoWaf] INFO - Closing the database
+2013-01-31 14:17:55 [com.wakanda-software.NoWaf.NoWaf] INFO - Database closed (duration: 409 ms)
+2013-01-31 14:17:55 [com.wakanda-software.NoWaf.NoWaf] INFO - Project closed (duration: 409 ms)
+2013-01-31 14:17:55 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Closing the project
+2013-01-31 14:17:55 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-01-31 14:17:55 [com.wakanda-software.NoWaf] INFO - Solution closed (duration: 820 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf] INFO - Opening the solution
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf] INFO - Opening the users and groups directory
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf] INFO - Users and groups directory opened (duration: 28 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.NoWaf] INFO - Opening the project
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.NoWaf] INFO - Opening the database
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.NoWaf] INFO - Database opened (duration: 10 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.NoWaf] INFO - Project opened (duration: 19 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Opening the project
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project opened (duration: 4 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf] INFO - Solution opened (duration: 78 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf] INFO - Starting the solution
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.NoWaf] INFO - Starting the project
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.NoWaf] INFO - Starting the HTTP server
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.NoWaf] INFO - HTTP server started (duration: 34 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.NoWaf] INFO - Project started (duration: 86 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Starting the project
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Starting the HTTP server
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.ServerAdmin] INFO - HTTP server started (duration: 37 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project started (duration: 90 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.NoWaf] INFO - Executing the bootstrap(s)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.NoWaf] INFO - Bootstrap(s) executed (duration: 5 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2013-01-31 14:18:02 [com.wakanda-software.NoWaf] INFO - Solution started (duration: 191 ms)
+2013-01-31 18:52:50 [com.wakanda-software.NoWaf] INFO - Stopping the solution
+2013-01-31 18:52:50 [com.wakanda-software.NoWaf.NoWaf] INFO - Stopping the project
+2013-01-31 18:52:51 [com.wakanda-software.NoWaf.NoWaf] INFO - Project stopped (duration: 1074 ms)
+2013-01-31 18:52:51 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Stopping the project
+2013-01-31 18:52:53 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project stopped (duration: 2073 ms)
+2013-01-31 18:52:53 [com.wakanda-software.NoWaf] INFO - Solution stopped (duration: 3148 ms)
+2013-01-31 18:52:53 [com.wakanda-software.NoWaf] INFO - Closing the solution
+2013-01-31 18:52:53 [com.wakanda-software.NoWaf.NoWaf] INFO - Closing the project
+2013-01-31 18:52:53 [com.wakanda-software.NoWaf.NoWaf] INFO - Closing the database
+2013-01-31 18:52:54 [com.wakanda-software.NoWaf.NoWaf] INFO - Database closed (duration: 408 ms)
+2013-01-31 18:52:54 [com.wakanda-software.NoWaf.NoWaf] INFO - Project closed (duration: 410 ms)
+2013-01-31 18:52:54 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Closing the project
+2013-01-31 18:52:54 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-01-31 18:52:54 [com.wakanda-software.NoWaf] INFO - Solution closed (duration: 820 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf] INFO - Opening the solution
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf] INFO - Opening the users and groups directory
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf] INFO - Users and groups directory opened (duration: 12 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.NoWaf] INFO - Opening the project
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.NoWaf] INFO - Opening the database
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.NoWaf] INFO - Database opened (duration: 9 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.NoWaf] INFO - Project opened (duration: 18 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Opening the project
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf] INFO - Solution opened (duration: 63 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf] INFO - Starting the solution
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.NoWaf] INFO - Starting the project
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.NoWaf] INFO - Starting the HTTP server
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.NoWaf] INFO - HTTP server started (duration: 34 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.NoWaf] INFO - Project started (duration: 85 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Starting the project
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Starting the HTTP server
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.ServerAdmin] INFO - HTTP server started (duration: 36 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project started (duration: 88 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.NoWaf] INFO - Executing the bootstrap(s)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.NoWaf] INFO - Bootstrap(s) executed (duration: 4 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-01-31 18:53:01 [com.wakanda-software.NoWaf] INFO - Solution started (duration: 189 ms)
+2013-01-31 19:07:00 [com.wakanda-software.NoWaf] INFO - Stopping the solution
+2013-01-31 19:07:00 [com.wakanda-software.NoWaf.NoWaf] INFO - Stopping the project
+2013-01-31 19:07:01 [com.wakanda-software.NoWaf.NoWaf] INFO - Project stopped (duration: 1071 ms)
+2013-01-31 19:07:01 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Stopping the project
+2013-01-31 19:07:03 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project stopped (duration: 2072 ms)
+2013-01-31 19:07:03 [com.wakanda-software.NoWaf] INFO - Solution stopped (duration: 3144 ms)
+2013-01-31 19:07:03 [com.wakanda-software.NoWaf] INFO - Closing the solution
+2013-01-31 19:07:03 [com.wakanda-software.NoWaf.NoWaf] INFO - Closing the project
+2013-01-31 19:07:03 [com.wakanda-software.NoWaf.NoWaf] INFO - Closing the database
+2013-01-31 19:07:04 [com.wakanda-software.NoWaf.NoWaf] INFO - Database closed (duration: 406 ms)
+2013-01-31 19:07:04 [com.wakanda-software.NoWaf.NoWaf] INFO - Project closed (duration: 409 ms)
+2013-01-31 19:07:04 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Closing the project
+2013-01-31 19:07:04 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-01-31 19:07:04 [com.wakanda-software.NoWaf] INFO - Solution closed (duration: 820 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf] INFO - Opening the solution
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf] INFO - Opening the users and groups directory
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf] INFO - Users and groups directory opened (duration: 14 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.NoWaf] INFO - Opening the project
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.NoWaf] INFO - Opening the database
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.NoWaf] INFO - Database opened (duration: 9 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.NoWaf] INFO - Project opened (duration: 19 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Opening the project
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf] INFO - Solution opened (duration: 67 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf] INFO - Starting the solution
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.NoWaf] INFO - Starting the project
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.NoWaf] INFO - Starting the HTTP server
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.NoWaf] INFO - HTTP server started (duration: 34 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.NoWaf] INFO - Project started (duration: 85 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Starting the project
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Starting the HTTP server
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.ServerAdmin] INFO - HTTP server started (duration: 37 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Project started (duration: 90 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.NoWaf] INFO - Executing the bootstrap(s)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.NoWaf] INFO - Bootstrap(s) executed (duration: 5 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf.ServerAdmin] INFO - Bootstrap(s) executed (duration: 12 ms)
+2013-01-31 19:26:59 [com.wakanda-software.NoWaf] INFO - Solution started (duration: 194 ms)
+2013-01-31 19:27:51 [com.wakanda-software.NoWaf.NoWaf.JS4D] ERROR - [1] Error on line 1. SyntaxError: Unexpected token '<', HTTP connection handler
+2013-01-31 19:27:51 [com.wakanda-software.NoWaf.NoWaf.JS4D] ERROR - [2] Error evaluating javascript file:///Users/rm/Desktop/Apps/NoWaf/TemplateSystem/WebFolder/noWAFDojo/index.html, HTTP connection handler

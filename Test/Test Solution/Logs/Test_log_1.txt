@@ -1,0 +1,38 @@
+2013-01-30 17:36:16 [com.wakanda-software.Test] INFO - Opening the solution
+2013-01-30 17:36:16 [com.wakanda-software.Test] INFO - Opening the users and groups directory
+2013-01-30 17:36:16 [com.wakanda-software.Test] INFO - Users and groups directory opened (duration: 23 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test.Test] INFO - Opening the project
+2013-01-30 17:36:16 [com.wakanda-software.Test.Test] INFO - Opening the database
+2013-01-30 17:36:16 [com.wakanda-software.Test.Test] INFO - Database opened (duration: 13 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test.Test] INFO - Project opened (duration: 21 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test.ServerAdmin] INFO - Opening the project
+2013-01-30 17:36:16 [com.wakanda-software.Test.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test] INFO - Solution opened (duration: 79 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test] INFO - Starting the solution
+2013-01-30 17:36:16 [com.wakanda-software.Test.Test] INFO - Starting the project
+2013-01-30 17:36:16 [com.wakanda-software.Test.Test] INFO - Starting the HTTP server
+2013-01-30 17:36:16 [com.wakanda-software.Test.Test] INFO - HTTP server started (duration: 31 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test.Test] INFO - Project started (duration: 80 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the project
+2013-01-30 17:36:16 [com.wakanda-software.Test.ServerAdmin] INFO - Starting the HTTP server
+2013-01-30 17:36:16 [com.wakanda-software.Test.ServerAdmin] INFO - HTTP server started (duration: 40 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test.ServerAdmin] INFO - Project started (duration: 92 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test.Test] INFO - Executing the bootstrap(s)
+2013-01-30 17:36:16 [com.wakanda-software.Test.Test] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-30 17:36:16 [com.wakanda-software.Test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 10 ms)
+2013-01-30 17:36:16 [com.wakanda-software.Test] INFO - Solution started (duration: 184 ms)
+2013-01-30 18:32:45 [com.wakanda-software.Test] INFO - Stopping the solution
+2013-01-30 18:32:45 [com.wakanda-software.Test.Test] INFO - Stopping the project
+2013-01-30 18:32:47 [com.wakanda-software.Test.Test] INFO - Project stopped (duration: 2066 ms)
+2013-01-30 18:32:47 [com.wakanda-software.Test.ServerAdmin] INFO - Stopping the project
+2013-01-30 18:32:49 [com.wakanda-software.Test.ServerAdmin] INFO - Project stopped (duration: 2074 ms)
+2013-01-30 18:32:49 [com.wakanda-software.Test] INFO - Solution stopped (duration: 4141 ms)
+2013-01-30 18:32:49 [com.wakanda-software.Test] INFO - Closing the solution
+2013-01-30 18:32:49 [com.wakanda-software.Test.Test] INFO - Closing the project
+2013-01-30 18:32:49 [com.wakanda-software.Test.Test] INFO - Closing the database
+2013-01-30 18:32:49 [com.wakanda-software.Test.Test] INFO - Database closed (duration: 406 ms)
+2013-01-30 18:32:49 [com.wakanda-software.Test.Test] INFO - Project closed (duration: 406 ms)
+2013-01-30 18:32:49 [com.wakanda-software.Test.ServerAdmin] INFO - Closing the project
+2013-01-30 18:32:49 [com.wakanda-software.Test.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-01-30 18:32:50 [com.wakanda-software.Test] INFO - Solution closed (duration: 815 ms)

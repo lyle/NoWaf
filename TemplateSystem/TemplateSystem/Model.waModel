@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><EntityModelCatalog>
+
+<dbInfo name="Model" uuid="DEB2380315EE8E47AF7052ECFC4FADBC"/>
+
+<extraProperties ____objectunic="true" version="1">
+
+	<classes ____objectunic="true">
+
+		<Employee ____objectunic="true" panelColor="rgb(141, 179, 226)">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="118" Y="45"/>
+</panel>
+</Employee>
+
+		<class18 ____objectunic="true" panelColor="#B8CCE4">
+
+			<panel ____objectunic="true" isOpen="true">
+
+				<position ____objectunic="true" X="40" Y="633"/>
+</panel>
+</class18>
+
+		<class22 ____objectunic="true" panelColor="#76923C">
+
+			<panel ____objectunic="true" isOpen="true">
+
+				<position ____objectunic="true" X="421" Y="623"/>
+</panel>
+</class22>
+
+		<class66 ____objectunic="true" panelColor="#D8D8D8">
+
+			<panel ____objectunic="true" isOpen="true">
+
+				<position ____objectunic="true" X="688" Y="358"/>
+</panel>
+</class66>
+
+		<Company ____objectunic="true" panelColor="rgb(118, 146, 60)">
+
+			<panel ____objectunic="true" isOpen="true">
+
+				<position ____objectunic="true" X="460" Y="41"/>
+</panel>
+</Company>
+
+		<City ____objectunic="true" panelColor="#BFBFBF">
+
+			<panel ____objectunic="true" isOpen="true">
+
+				<position ____objectunic="true" X="475" Y="333"/>
+</panel>
+</City>
+
+		<toto ____objectunic="true" panelColor="#548DD4">
+
+			<panel ____objectunic="true" isOpen="true">
+
+				<position ____objectunic="true" X="806" Y="328"/>
+</panel>
+</toto>
+
+		<maclass ____objectunic="true" panelColor="#eee">
+
+			<panel ____objectunic="true" isOpen="true">
+
+				<position ____objectunic="true" X="731" Y="100"/>
+</panel>
+</maclass>
+
+		<Elem ____objectunic="true" panelColor="#4FA997">
+
+			<panel ____objectunic="true" isOpen="true">
+
+				<position ____objectunic="true" X="774" Y="37"/>
+</panel>
+</Elem>
+
+		<DataClass1 ____objectunic="true" panelColor="#eee">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="479" Y="553"/>
+</panel>
+</DataClass1>
+</classes>
+
+	<model ____objectunic="true"/>
+</extraProperties>
+
+<dataClasses name="DataClass1" className="DataClass1" collectionName="DataClass1Collection" scope="public" uuid="91DF8A3534168D40964665713FBC3026">
+
+	<attributes name="ID" kind="storage" scope="public" uuid="66EE01472864AD43BB6BDF872926716E" unique="true" autosequence="true" type="long" primKey="true"/>
+
+	<attributes name="name" kind="storage" scope="public" type="string"/>
+
+	<attributes name="attribute1" scope="public" uuid="6680843EBD880C458CBC96E74527AC0F" type="image" kind="storage"/>
+
+</dataClasses>
+</EntityModelCatalog>

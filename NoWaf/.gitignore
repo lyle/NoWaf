@@ -1,0 +1,1 @@
+# OS X\n*.DS_Store\n._*\n# Wakanda data\n*.waData\n# Wakanda preferences\n*.waPreferences\n# Wakanda log\n*.waLog\n*/Logs\nstudio_log*\n# Wakanda code symbols\n*.waSym\n*.waSymData\n# Wakanda index\n*.waIndex\n*.Match\n# Wakanda User and Group cache\n*.cacheUAG\n# Wakanda backup\n*.waBackup\n\n\n\n
