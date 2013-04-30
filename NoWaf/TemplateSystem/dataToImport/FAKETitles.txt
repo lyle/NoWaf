@@ -1,6 +1,0 @@
-Mr	0
-Mrs	1
-Miss	1
-Ms	1
-Dr		0
-Dr		1

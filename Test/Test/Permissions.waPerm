@@ -1,1 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><permissions></permissions>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<permissions>
+    <allow action="read" groupName="newGroup2" groupID="BA8312345FBB466D80C1447A0608C477"
+    resource="Model.DataClass1" temporaryForcePermissions="false" type="dataClass"
+    />
+</permissions>

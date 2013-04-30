@@ -485,67 +485,81 @@
 2013-01-28 17:54:02 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Executing the bootstrap(s)
 2013-01-28 17:54:02 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
 2013-01-28 17:54:02 [com.wakanda-software.TemplateSystem] INFO - Solution started (duration: 185 ms)
-2013-01-29 13:08:14 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [1] Error on line 1. SyntaxError: Unexpected token '<', HTTP connection handler
-2013-01-29 13:08:14 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [2] Error evaluating javascript file:///Users/rm/Desktop/Apps/TemplateSystem/TemplateSystem/WebFolder/Template/index.html, HTTP connection handler
-2013-01-29 13:10:44 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [1] Error on line 1. SyntaxError: Unexpected token '<', HTTP connection handler
-2013-01-29 13:10:44 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [2] Error evaluating javascript file:///Users/rm/Desktop/Apps/TemplateSystem/TemplateSystem/WebFolder/Template/index.html, HTTP connection handler
-2013-01-29 13:18:10 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [1] Error on line 1. SyntaxError: Unexpected token '<', HTTP connection handler
-2013-01-29 13:18:10 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [2] Error evaluating javascript file:///Users/rm/Desktop/Apps/TemplateSystem/TemplateSystem/WebFolder/Template/index.html, HTTP connection handler
-2013-01-30 17:36:03 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [1] ReferenceError: Can't find variable: WAF, HTTP connection handler
-2013-01-30 17:36:03 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [2] Error evaluating javascript file:///Users/rm/Desktop/Apps/TemplateSystem/TemplateSystem/WebFolder/Template/index.js, HTTP connection handler
-2013-01-30 17:36:03 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [1] ReferenceError: Can't find variable: WAF, HTTP connection handler
-2013-01-30 17:36:03 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [2] Error evaluating javascript file:///Users/rm/Desktop/Apps/TemplateSystem/TemplateSystem/WebFolder/Template/index.js, HTTP connection handler
-2013-01-30 17:36:03 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [1] ReferenceError: Can't find variable: WAF, HTTP connection handler
-2013-01-30 17:36:03 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [2] Error evaluating javascript file:///Users/rm/Desktop/Apps/TemplateSystem/TemplateSystem/WebFolder/Template/index.js, HTTP connection handler
-2013-01-30 17:36:11 [com.wakanda-software.TemplateSystem] INFO - Stopping the solution
-2013-01-30 17:36:11 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Stopping the project
-2013-01-30 17:36:12 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project stopped (duration: 1128 ms)
-2013-01-30 17:36:12 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Stopping the project
-2013-01-30 17:36:14 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project stopped (duration: 2090 ms)
-2013-01-30 17:36:14 [com.wakanda-software.TemplateSystem] INFO - Solution stopped (duration: 3220 ms)
-2013-01-30 17:36:14 [com.wakanda-software.TemplateSystem] INFO - Closing the solution
-2013-01-30 17:36:14 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Closing the project
-2013-01-30 17:36:14 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Closing the database
-2013-01-30 17:36:16 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Database closed (duration: 1742 ms)
-2013-01-30 17:36:16 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project closed (duration: 1747 ms)
-2013-01-30 17:36:16 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Closing the project
-2013-01-30 17:36:16 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project closed (duration: 1 ms)
-2013-01-30 17:36:16 [com.wakanda-software.TemplateSystem] INFO - Solution closed (duration: 2166 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem] INFO - Opening the solution
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem] INFO - Opening the users and groups directory
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem] INFO - Users and groups directory opened (duration: 15 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Opening the project
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Opening the database
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Database opened (duration: 15 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project opened (duration: 26 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Opening the project
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project opened (duration: 5 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem] INFO - Solution opened (duration: 74 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem] INFO - Starting the solution
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Starting the project
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Starting the HTTP server
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - HTTP server started (duration: 33 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project started (duration: 84 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Starting the project
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Starting the HTTP server
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - HTTP server started (duration: 36 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project started (duration: 87 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Executing the bootstrap(s)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Bootstrap(s) executed (duration: 5 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Executing the bootstrap(s)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
-2013-01-30 18:33:08 [com.wakanda-software.TemplateSystem] INFO - Solution started (duration: 186 ms)
-2013-01-31 13:52:55 [com.wakanda-software.TemplateSystem] INFO - Stopping the solution
-2013-01-31 13:52:55 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Stopping the project
-2013-01-31 13:52:56 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project stopped (duration: 1071 ms)
-2013-01-31 13:52:56 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Stopping the project
-2013-01-31 13:52:58 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project stopped (duration: 2073 ms)
-2013-01-31 13:52:58 [com.wakanda-software.TemplateSystem] INFO - Solution stopped (duration: 3145 ms)
-2013-01-31 13:52:58 [com.wakanda-software.TemplateSystem] INFO - Closing the solution
-2013-01-31 13:52:58 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Closing the project
-2013-01-31 13:52:58 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Closing the database
-2013-01-31 13:52:58 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Database closed (duration: 406 ms)
-2013-01-31 13:52:58 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project closed (duration: 408 ms)
-2013-01-31 13:52:58 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Closing the project
-2013-01-31 13:52:58 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project closed (duration: 1 ms)
-2013-01-31 13:52:59 [com.wakanda-software.TemplateSystem] INFO - Solution closed (duration: 815 ms)
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem] INFO - Opening the solution
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem] INFO - Opening the users and groups directory
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem] INFO - Users and groups directory opened (duration: 13 ms)
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Opening the project
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Opening the database
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Database opened (duration: 9 ms)
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project opened (duration: 20 ms)
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Opening the project
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem] INFO - Solution opened (duration: 67 ms)
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem] INFO - Starting the solution
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Starting the project
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Starting the HTTP server
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - HTTP server started (duration: 36 ms)
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project started (duration: 89 ms)
+2013-01-29 11:56:07 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Starting the project
+2013-01-29 11:56:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Starting the HTTP server
+2013-01-29 11:56:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - HTTP server started (duration: 39 ms)
+2013-01-29 11:56:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project started (duration: 92 ms)
+2013-01-29 11:56:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Executing the bootstrap(s)
+2013-01-29 11:56:08 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Bootstrap(s) executed (duration: 5 ms)
+2013-01-29 11:56:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-29 11:56:08 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2013-01-29 11:56:08 [com.wakanda-software.TemplateSystem] INFO - Solution started (duration: 197 ms)
+2013-01-29 11:57:22 [com.wakanda-software.TemplateSystem] INFO - Stopping the solution
+2013-01-29 11:57:22 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Stopping the project
+2013-01-29 11:57:23 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project stopped (duration: 1085 ms)
+2013-01-29 11:57:23 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Stopping the project
+2013-01-29 11:57:25 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project stopped (duration: 2078 ms)
+2013-01-29 11:57:25 [com.wakanda-software.TemplateSystem] INFO - Solution stopped (duration: 3164 ms)
+2013-01-29 11:57:25 [com.wakanda-software.TemplateSystem] INFO - Closing the solution
+2013-01-29 11:57:25 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Closing the project
+2013-01-29 11:57:25 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Closing the database
+2013-01-29 11:57:25 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Database closed (duration: 405 ms)
+2013-01-29 11:57:25 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project closed (duration: 405 ms)
+2013-01-29 11:57:25 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Closing the project
+2013-01-29 11:57:25 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-01-29 11:57:26 [com.wakanda-software.TemplateSystem] INFO - Solution closed (duration: 812 ms)
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem] INFO - Opening the solution
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem] INFO - Opening the users and groups directory
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem] INFO - Users and groups directory opened (duration: 12 ms)
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Opening the project
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Opening the database
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Database opened (duration: 9 ms)
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project opened (duration: 19 ms)
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Opening the project
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem] INFO - Solution opened (duration: 68 ms)
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem] INFO - Starting the solution
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Starting the project
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Starting the HTTP server
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - HTTP server started (duration: 35 ms)
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project started (duration: 86 ms)
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Starting the project
+2013-01-29 11:57:30 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Starting the HTTP server
+2013-01-29 11:57:31 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - HTTP server started (duration: 38 ms)
+2013-01-29 11:57:31 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project started (duration: 91 ms)
+2013-01-29 11:57:31 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Executing the bootstrap(s)
+2013-01-29 11:57:31 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Bootstrap(s) executed (duration: 5 ms)
+2013-01-29 11:57:31 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-29 11:57:31 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2013-01-29 11:57:31 [com.wakanda-software.TemplateSystem] INFO - Solution started (duration: 194 ms)
+2013-01-29 14:36:45 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [1] ReferenceError: Can't find variable: WAF, HTTP connection handler
+2013-01-29 14:36:45 [com.wakanda-software.TemplateSystem.TemplateSystem.JS4D] ERROR - [2] Error evaluating javascript file:///Users/Rosset/workspace/solutions/Apps/TemplateSystem/TemplateSystem/WebFolder/noWAFSencha/index.js, HTTP connection handler
+2013-01-29 15:11:37 [com.wakanda-software.TemplateSystem] INFO - Stopping the solution
+2013-01-29 15:11:37 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Stopping the project
+2013-01-29 15:11:38 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project stopped (duration: 1085 ms)
+2013-01-29 15:11:38 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Stopping the project
+2013-01-29 15:11:40 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project stopped (duration: 2077 ms)
+2013-01-29 15:11:40 [com.wakanda-software.TemplateSystem] INFO - Solution stopped (duration: 3163 ms)
+2013-01-29 15:11:40 [com.wakanda-software.TemplateSystem] INFO - Closing the solution
+2013-01-29 15:11:40 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Closing the project
+2013-01-29 15:11:40 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Closing the database
+2013-01-29 15:11:41 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Database closed (duration: 406 ms)
+2013-01-29 15:11:41 [com.wakanda-software.TemplateSystem.TemplateSystem] INFO - Project closed (duration: 407 ms)
+2013-01-29 15:11:41 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Closing the project
+2013-01-29 15:11:41 [com.wakanda-software.TemplateSystem.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-01-29 15:11:41 [com.wakanda-software.TemplateSystem] INFO - Solution closed (duration: 815 ms)

@@ -1,1 +1,0 @@
-﻿<table>     <tr><td>Name</td><td>firstname</td><td>salary</td></tr>     {for p in emps}         <tr>			<td>${p.lastname|capitalize}</td><td>${p.firstname}</td><td>$${p.salary}</td>        </tr>     {forelse}         <tr><td colspan="4">no employees</tr>     {/for}</table>

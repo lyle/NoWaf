@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<directory>
-	<group ID="01000000000000000000000000000000" name="Admin">
-	</group>
-</directory>
-
+﻿<?xml version="1.0" encoding="UTF-8"?><directory><group ID="01000000000000000000000000000000" name="Admin"></group><group ID="034B21FB22B14A42A711F1E9F5E538DA" name="newGroup1"/><group ID="BA8312345FBB466D80C1447A0608C477" name="newGroup2"/><group ID="E15DC09F328D461EB60B1D9842D42460" name="newGroup3"/><group ID="99C44654997A426EBA6AA7CAADB627A7" name="newGroup4"/><group ID="4E48CC4E204942699428DD86782027FA" name="newGroup5"/><group ID="FACD2D45D29648F1A5EDDF523C651A64" name="newGroup6"/><group ID="D48AE2AE1D744D34A7C02F48ACAE8707" name="newGroup7"/></directory>
